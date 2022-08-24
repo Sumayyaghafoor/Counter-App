@@ -1,0 +1,28 @@
+.container {
+    width: 380px;
+    height: 200px;
+    border: 2px solid rgb(41, 39, 39);
+    margin: 0 auto;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 5px 10px 20px gray;
+    background-color: #C0C0C0;
+}
+
+h1 {
+    margin-left: 120px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+span {
+    font-size: 50px;
+    padding: 10px;
+    color: black;
+    margin-left: 160px;
+}
